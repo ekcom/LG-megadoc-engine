@@ -1,0 +1,17 @@
+{
+  "name": "LG-megadoc-engine",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "private": true,
+  "packageManager": "pnpm@10.10.0",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.97"
+  }
+}
