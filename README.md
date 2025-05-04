@@ -1,6 +1,9 @@
 ## Configuring an Apps Script Project
 
-Point `.clasp.json`'s `rootDir` to `src/`.
+1. Move `sample.clasp.json` to `.clasp.json`
+2. Set the `scriptId`
+	- This can be found by opening to your script on the web
+		and navigating to File > Project properties > Script ID
 
 ## Deploying
 
