@@ -22,6 +22,9 @@ jspm_packages/
 # Eslint
 .eslintcache
 
+# Clasp
+.clasp.json
+
 # Runtime
 pids
 *.pid
